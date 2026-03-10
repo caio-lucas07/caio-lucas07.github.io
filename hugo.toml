@@ -2,6 +2,7 @@ baseURL = 'https://caio-lucas07.github.io/'
 languageCode = 'en-us'
 title = 'Caio Lucas'
 theme = 'stack'
+publishDir = 'docs'
 
 [params.sidebar]
 subtitle = "An engineer sharing knowledge about everything that interests him most."

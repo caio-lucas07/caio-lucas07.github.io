@@ -11,8 +11,6 @@ toc = false
 </p>
 
 
-
-<p style="text-align: justify;">
 Hey! I'm Lucas, a **Software Engineer** focused on backend systems, data engineering, and applied artificial intelligence.
 
 Over the past years I’ve worked building **distributed systems, data pipelines, and AI-powered applications**, mainly with Java, Python, and cloud-native architectures, in areas such as *IT, retail/e-commerce, manufacturing, telecom and finance/banking*. <br>
@@ -24,7 +22,6 @@ Beyond engineering, I have a strong interest in **philosophy and Christian theol
 This blog is where I write about technology, ideas, and the deeper questions behind both.
 
 *Soli Deo Gloria.*
-</p>
 
 
 ## Let's connect?

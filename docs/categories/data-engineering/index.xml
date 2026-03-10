@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Data Engineering on Caio Lucas</title>
+        <link>http://localhost:1313/categories/data-engineering/</link>
+        <description>Recent content in Data Engineering on Caio Lucas</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 09 Mar 2026 20:16:59 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Data Engineering project with Apache Spark</title>
+            <link>http://localhost:1313/projects/cap-theorem-explained/</link>
+            <pubDate>Mon, 09 Mar 2026 20:16:59 -0300</pubDate>
+            <guid>http://localhost:1313/projects/cap-theorem-explained/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/&#34; alt=&#34;Featured image of post Data Engineering project with Apache Spark&#34; /&gt;&lt;p&gt;Coming soon!&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
