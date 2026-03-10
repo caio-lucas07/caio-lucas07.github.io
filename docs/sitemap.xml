@@ -2,41 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/data-engineering/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-engineering/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/cap-theorem-explained/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ia/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-03-09T18:47:35-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-09T18:13:54-03:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-09T18:47:35-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cap-theorem-post/</loc>
-    <lastmod>2026-03-09T18:13:54-03:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
     <loc>http://localhost:1313/page/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
