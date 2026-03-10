@@ -1,0 +1,88 @@
+baseURL = 'https://caio-lucas07.github.io/'
+languageCode = 'en-us'
+title = 'Caio Lucas'
+theme = 'stack'
+
+[params.sidebar]
+subtitle = "An engineer sharing knowledge about everything that interests him most."
+avatar = "images/profile-photo.jpg"
+
+
+[[menu.social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://linkedin.com/in/caio-lucasmoraes"
+weight = 1
+[menu.social.params]
+icon = "linkedinv2"
+newTab = true
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/caio-lucas07"
+weight = 2
+[menu.social.params]
+icon = "github"
+newTab = true
+
+
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
+
+
+
+[params]
+mainSections = ["posts"]
+math = true
+favicon = "/favicon.ico"
+[params.widgets]
+enabled = ["toc"]
+  [[params.widgets.page]]
+  type = "toc"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[markup]   
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = "always"
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = "always"
+  [markup.goldmark.extensions]
+    [markup.goldmark.extensions.passthrough]
+    enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)']]
+  [markup.highlight]
+    lineNos = true
+    codeFences = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false  
