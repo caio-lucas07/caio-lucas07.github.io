@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Caio Lucas</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on Caio Lucas</description>
+        <title>Varejo on Caio Lucas</title>
+        <link>http://localhost:1313/tags/varejo/</link>
+        <description>Recent content in Varejo on Caio Lucas</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/varejo/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>O que significa &#34;varejo harmonizado&#34;? Resumo do Livro Remarkable Retail, de Steve Dennis | Capítulo 14</title>
             <link>http://localhost:1313/posts/ch14-remarkable-retail/</link>
             <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
