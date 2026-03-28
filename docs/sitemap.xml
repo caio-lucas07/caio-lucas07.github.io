@@ -26,29 +26,12 @@
     <loc>http://localhost:1313/tags/varejo/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/data-engineering/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-engineering/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/cap-theorem-explained/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ia/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-03-09T20:16:59-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-03-09T18:47:35-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/architecture/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/cap-theorem/</loc>
-  </url><url>
     <loc>http://localhost:1313/page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/page/search/</loc>
   </url>
