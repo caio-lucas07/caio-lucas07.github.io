@@ -11,7 +11,7 @@ toc = false
 </p>
 
 
-Hey! I'm Lucas, a **Software Engineer** focused on backend systems, data engineering, and applied artificial intelligence.
+Hey! I'm Lucas, a **Software Engineer** focused on backend systems, data engineering and applied artificial intelligence.
 
 Over the past years I’ve worked building **distributed systems, data pipelines, and AI-powered applications**, mainly with Java, Python, and cloud-native architectures, in areas such as *IT, retail/e-commerce, manufacturing, telecom and finance/banking*. <br>
 I’m particularly interested in designing reliable systems, scalable platforms, and technology that turns data into useful products.
@@ -19,9 +19,16 @@ I’m particularly interested in designing reliable systems, scalable platforms,
 I’m also the **Founder of an independent software venture** called **Lumina Consulting**, where I build automation tools and software products at the intersection of data platforms, AI, and distributed systems.
 
 Beyond engineering, I have a strong interest in **philosophy and Christian theology**. <br> 
-This blog is where I write about technology, ideas, and the deeper questions behind both.
+This space is where I write about technology, ideas, and the deeper questions behind both.
 
 *Soli Deo Gloria.*
+
+
+## Work Experience and Formation
+
+Check my work experience and formation: <a href="https://drive.google.com/drive/folders/1CREY5_Yp0X9jwwGrycZqLGslgSfLiqt-?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <u>click here</u>
+</a>
 
 
 ## Let's connect?
