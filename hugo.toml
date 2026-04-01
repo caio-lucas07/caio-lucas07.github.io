@@ -4,6 +4,10 @@ title = 'Caio Lucas'
 theme = 'stack'
 publishDir = 'docs'
 
+[colorScheme]
+toggle = true
+default = "light"
+
 [params.sidebar]
 subtitle = "An engineer sharing knowledge about everything that interests him most."
 avatar = "images/profile-photo.jpg"
